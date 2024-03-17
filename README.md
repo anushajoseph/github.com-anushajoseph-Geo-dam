@@ -1,36 +1,28 @@
-# Personal Portfolio Website in React
+# GEO-DAM
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Team members:
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+**1.** [ASWIN JOSEPH](https://github.com/aswin-j)<br/>
+**2.** [ANUSHA JOSEPH](https://github.com/anushajoseph)<br/>
+**3.** [EMIL ERINJERY](https://github.com/emiltonyerinjery)<br/>
+**4.** [ALFIN JOHNSON]()<br/>
 
-Built using:
+## How to configure:
+**1.** Clone this repository to your local drive
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+```shell
+$ git clone https://github.com/aswin-j/main_project
+```
 
-In the /personal-portfolio, you can run:
+**2.** Installing pnpm in terminal
 
-### `npm start`
+```shell
+$ pnpm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**3.** Open Terminal and Run 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```shell
+$ pnpm start
+```
